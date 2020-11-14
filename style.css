@@ -1,0 +1,132 @@
+ @media (max-width: 500px) {
+    .div-white {
+      width: 400px;
+    }
+ 
+ }
+
+
+body {
+  background-color: #E14661;
+  color: #112D2E;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 20px;
+  line-height: 1.6;
+  letter-spacing: 2px;
+
+  p {
+  	text-justify: center;
+  }
+
+}
+
+h1 {
+	color:#EBEBEB;
+	font-family: 'Noto Serif', serif;
+	letter-spacing:8px;
+	font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+    }
+
+h2 {
+	color:#EBEBEB;
+	font-family: 'Noto Serif', serif;
+	letter-spacing:8px;
+  font-weight: 400;
+	font-style: 30px;
+  text-align: center;
+    }
+
+a {
+  text-align: center;
+  color: #EBEBEB;
+  font-family: 'Noto Serif', serif;
+  }
+
+  
+
+ #div-white {
+ 	margin:50px auto ; 
+ 	background: white ;
+ 	padding: 30px;
+ 	border-radius: 4px;
+ 	box-shadow: 0 10px 30px 
+ }
+
+ @media (max-width: 760px) {
+    .div-white {
+      width: 600px;
+    }
+ }
+
+ @media (max-width: 500px) {
+    .div-white {
+      width: 400px;
+    }
+ 
+ }
+
+ .div-blue {
+ 	margin:50px auto ; 
+ 	background: #6DA1A4 ;
+ 	padding: 30px;
+ 	border-radius: 4px;
+ 	box-shadow: 0 10px 30px 
+ 	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  text-align: center;
+
+ }
+
+
+.photo {
+  width: 20%;
+  padding: 75px;
+  margin: 0 auto;
+  border-radius: 50%;
+
+}
+
+.photoargentine {
+  padding: 50px;
+  width: 300px;
+  margin: 40px auto;
+  border: 1px solid #EBEBEB;;
+  margin-left: auto;
+  margin-right: auto;
+ } 
+
+
+.shadow {
+  box-shadow:5px 5px 3px black;
+}
+
+.text-justify {
+  text-align: center;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline > li {
+display: inline;
+padding: 0px 200px;
+}
+
+#bouton {
+  width: 200px;
+  margin: 40px auto;
+  background: #E14661;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px 
+}
+
+
+
+
+
+
+
